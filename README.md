@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+Used SQLAlchemy within a Jupyter Notebook in order to query data from a Hawaii climate SQLite database and visualize using Matplotlib from Pandas dataframes. Then created a Flask API in order to query and return observations within a flexible date range. 
